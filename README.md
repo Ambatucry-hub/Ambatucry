@@ -149,7 +149,7 @@ Struktur dapat dikembangkan sesuai kebutuhan selama implementasi.
 
 ## Repository dan Deployment
 
-- Repository GitHub: _belum diisi_
+- Repository GitHub: https://github.com/Ambatucry-hub/Ambatucry
 - Tautan hosting: _belum ada_
 
 ## Dokumentasi Penggunaan AI
