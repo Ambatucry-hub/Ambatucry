@@ -144,8 +144,8 @@ Struktur dapat dikembangkan sesuai kebutuhan selama implementasi.
 | No | Nama | NIM |
 |---|---|---|
 | 1 | Eugene Eric C | A11.2025.16192 |
-| 2 | - | - |
-| 3 | - | - |
+| 2 | Muhammad Alip Pratama | A11.2025.16585 |
+| 3 | Bunayya Iqbal Rafiif | A11.2025.16587 |
 
 ## Repository dan Deployment
 
