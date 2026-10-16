@@ -1,4 +1,4 @@
-# Chasie
+# Cashie
 
 Aplikasi kasir dan pengelolaan stok sederhana berbasis web.
 
@@ -6,7 +6,7 @@ Aplikasi kasir dan pengelolaan stok sederhana berbasis web.
 
 ## Deskripsi
 
-KasirKu membantu toko kecil, kantin, koperasi, dan usaha sederhana dalam mengelola produk, persediaan barang, serta transaksi penjualan. Proyek ini dikembangkan sebagai Project Based Learning (PjBL) mata kuliah **Pemrograman Berbasis Web**, dikerjakan bertahap mulai dari perencanaan antarmuka, implementasi halaman web, autentikasi, pengelolaan database, hingga publikasi aplikasi.
+Cashie membantu toko kecil, kantin, koperasi, dan usaha sederhana dalam mengelola produk, persediaan barang, serta transaksi penjualan. Proyek ini dikembangkan sebagai Project Based Learning (PjBL) mata kuliah **Pemrograman Berbasis Web**, dikerjakan bertahap mulai dari perencanaan antarmuka, implementasi halaman web, autentikasi, pengelolaan database, hingga publikasi aplikasi.
 
 ## Latar Belakang
 
