@@ -1,4 +1,4 @@
-# KasirKu
+# Chasie
 
 Aplikasi kasir dan pengelolaan stok sederhana berbasis web.
 
