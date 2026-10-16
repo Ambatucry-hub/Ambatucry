@@ -1,6 +1,4 @@
-# Cashie
-
-Aplikasi kasir dan pengelolaan stok sederhana berbasis web.
+# Cashie, pengelolaan stok sederhana berbasis web.
 
 > **Status:** Milestone 1 — perencanaan proyek dan persiapan lingkungan kerja. Fitur di bawah masih berupa rencana dan akan diimplementasikan serta diuji secara bertahap.
 
